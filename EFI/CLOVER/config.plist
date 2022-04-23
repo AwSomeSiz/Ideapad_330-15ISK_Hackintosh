@@ -90,8 +90,6 @@
 		</array>
 		<key>KbdPrevLang</key>
 		<true/>
-		<key>Language</key>
-		<string>ru:19456</string>
 		<key>Mouse</key>
 		<dict>
 			<key>Enabled</key>
