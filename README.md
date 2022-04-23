@@ -7,7 +7,7 @@ Clover version - 5146
 
 Configuration:  
 • Processor - Intel® Core™ i3 6100U  
-• Graphics - Intel® HD Graphics 520  
+• Graphics - Intel® HD Graphics 520 + AMD Radeon R5 M430 (disabled)  
 • Dispay resolution - 1366x768  
 • Memory - 8 GB DDR4
 
