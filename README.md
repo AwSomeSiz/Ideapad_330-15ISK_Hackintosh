@@ -17,4 +17,6 @@ What doesn't work:
 
 Do not forget to update SMBIOS in config.plist and good luck with your usage, Bro!
 
+[**Download EFI**](https://github.com/AwSomeSiz/Ideapad_330-15ISK_Hackintosh/releases)
+
 ![Lenovo Ideapad 300-15ISK](https://user-images.githubusercontent.com/85404291/164886591-26e273b0-faad-4342-8102-9d723a94f8a4.jpeg)
