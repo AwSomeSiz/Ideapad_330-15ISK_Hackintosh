@@ -12,7 +12,7 @@ Configuration:
 • Memory - 8 GB DDR4
 
 What doesn't work:  
-• WiFi (u need to buy [supported WiFi module](https://dortania.github.io/Wireless-Buyers-Guide/unsupported.html#supported-chipsets) or supported USB WiFi adapter  
+• Wi-Fi (u need to buy [supported Wi-Fi module](https://dortania.github.io/Wireless-Buyers-Guide/unsupported.html#supported-chipsets) or supported USB Wi-Fi adapter  
 • Touchpad (in my case the touchpad was from Synaptics and I didn't have much time to get it to work, but may be u ll do it)
 
 Do not forget to update SMBIOS in config.plist and good luck with your usage, Bro!
