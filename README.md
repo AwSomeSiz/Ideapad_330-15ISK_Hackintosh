@@ -15,6 +15,6 @@ What doesn't work:
 • WiFi (u need to buy [supported WiFi module](https://dortania.github.io/Wireless-Buyers-Guide/unsupported.html#supported-chipsets) or supported USB WiFi adapter  
 • Touchpad (in my case the touchpad was from Synaptics and I didn't have much time to get it to work, but may be u ll do it)
 
-Good luck with your usage, Bro!!
+Do not forget to update SMBIOS in config.plist and good luck with your usage, Bro!
 
 ![Lenovo Ideapad 300-15ISK](https://user-images.githubusercontent.com/85404291/164886591-26e273b0-faad-4342-8102-9d723a94f8a4.jpeg)
